@@ -122,3 +122,5 @@ Prime Video会员凭借性价比、中文字幕支持和强大的原创内容，
 如果你正在寻找Netflix之外更实惠的流媒体平台，那么Prime Video无疑是最佳选择。无论是独自使用还是合租共享，掌握本文的开通与使用技巧，都能让你轻松开启Prime Video的观影之旅。
 
 ### 文章首发于：[Prime Video会员订阅与合租完整指南：价格对比、优势解析与开通教程](https://nav.xmpick.com/prime-video-huiyuan-hezu/)
+
+### 关于其它流媒体会员订阅指南，详情见这个合集：[https://github.com/stars/RiverShanx/lists/streaming-media-guide](https://github.com/stars/RiverShanx/lists/streaming-media-guide)

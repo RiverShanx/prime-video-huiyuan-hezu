@@ -123,7 +123,7 @@ Prime Video会员凭借性价比、中文字幕支持和强大的原创内容，
 
 ### 文章首发于：[Prime Video会员订阅与合租完整指南：价格对比、优势解析与开通教程](https://nav.xmpick.com/prime-video-huiyuan-hezu/)
 
-### 关于其它流媒体会员订阅指南，详情见这个合集：[https://github.com/stars/RiverShanx/lists/streaming-media-guide](https://github.com/stars/RiverShanx/lists/streaming-media-guide)
+### [关于其它流媒体会员订阅指南，详情见这个合集](https://github.com/stars/RiverShanx/lists/streaming-media-guide)
 
 2.1 [Spotify会员开通全攻略：虚拟信用卡、礼品卡、代充透明方法详解](https://github.com/RiverShanx/spotify-premium-guide)—本文介绍国内用户如何开通Spotify Premium会员，涵盖虚拟信用卡、礼品卡和第三方代充详细方法，帮助您轻松畅享全球音乐服务。
 

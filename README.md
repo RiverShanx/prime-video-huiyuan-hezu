@@ -124,3 +124,17 @@ Prime Video会员凭借性价比、中文字幕支持和强大的原创内容，
 ### 文章首发于：[Prime Video会员订阅与合租完整指南：价格对比、优势解析与开通教程](https://nav.xmpick.com/prime-video-huiyuan-hezu/)
 
 ### 关于其它流媒体会员订阅指南，详情见这个合集：[https://github.com/stars/RiverShanx/lists/streaming-media-guide](https://github.com/stars/RiverShanx/lists/streaming-media-guide)
+
+2.1 [Spotify会员开通全攻略：虚拟信用卡、礼品卡、代充透明方法详解](https://github.com/RiverShanx/spotify-premium-guide)—本文介绍国内用户如何开通Spotify Premium会员，涵盖虚拟信用卡、礼品卡和第三方代充详细方法，帮助您轻松畅享全球音乐服务。
+
+2.2 [Hulu会员订阅价格与开通教程对比](https://github.com/RiverShanx/hulu-huiyuan-dingyue)—本文将为您详细介绍Hulu会员的订阅方案、价格对比、使用条件，并分享国内开通Hulu的实用方法，帮助您顺利体验这款顶级的流媒体服务。
+
+2.3 [Office365家庭版拼车合租攻略：低价订阅正版Office的安全方法](https://github.com/RiverShanx/Office365)—本文阐述家庭版优势、拼车平台选择、安全使用技巧等多个角度，全面解析Office365家庭版拼车合租的正确打开，帮助您以最低价格获得体验。
+
+2.4 [Paramount+会员价格与开通教程｜美区英区订阅方案全面解析](https://github.com/RiverShanx/paramount-plus-vip)—开通派拉蒙+会员不仅能解锁无广告观看、高清画质、离线下载、多设备同步等功能，还能享受Showtime频道和4K HDR杜比视界等高阶流程体验。无论你是美剧迷、体育爱好者还是动漫粉丝，派拉蒙+将为你带来全面的娱乐体验。下面我们就来详细解析派拉蒙+的价格方案与开通。
+
+2.5 [Peacock TV Premium会员全面解析：价格、功能、与免费版的区别](https://github.com/RiverShanx/peacock-tv-premium)—本文将详细解析Peacock会员订阅的价格、功能优势及不同套餐的区别，并介绍如何通过拼车方式以更明亮的订阅方式，让您找到最适合的方案。
+
+2.6 [Tidal会员全攻略：订阅价格、开通流程与合租省钱技巧](https://github.com/RiverShanx/tidal-huiyuan)—Tidal提供 Premium、HiFi、Family、Student等多种订阅方案，同时支持免费试用，让新用户有机会先行体验。若觉得官方订阅价格偏高，还可以通过合租平台以更低成本享受同样的高品质服务。本文将带你全面了解 Tidal 会员的特点、价格、开通流程，以及如何通过合租方式降低订阅成本。
+
+2.7 [CrunchyRoll会员订阅全攻略：国内如何开通与合租省钱方案](https://github.com/RiverShanx/crunchyroll-vip)—对于国内用户而言，CrunchyRoll虽然一定需要的网络环境支持，但完全可以通过开通会员解锁完整资源。更重要的是，订阅价格相对较高，而通过合租平台订阅CrunchyRoll会员，同样能够同样享受的质量，还能大幅降低费用。无论你是想追当季新番，补经典番剧，合理选择订阅方式，都是追番内容党的必修课。
